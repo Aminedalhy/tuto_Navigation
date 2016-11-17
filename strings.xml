@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">first_project_interface</string>
+    <string name="my_tb_title"> Search</string>
+    <string name="menu_1">Add</string>
+    <string name="menu_2"></string>
+    <string name="search">Search</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>

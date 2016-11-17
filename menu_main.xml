@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item android:id="@+id/search"
+        android:title="@string/search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.support.v7.widget.SearchView">
+    </item>
+
+    <item android:id="@+id/menu_1"
+    android:title="@string/menu_1"
+    android:icon="@drawable/ic_add"
+
+        >
+
+</item>
+
+    <item android:id="@+id/menu_2"
+        android:title="Delete"
+        android:icon="@drawable/ic_add"
+
+        >
+        </item>
+
+    <item android:id="@+id/menu_3"
+        android:title="Setting"
+        android:icon="@drawable/ic_add"
+
+        >
+        </item>
+
+
+</menu>

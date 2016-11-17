@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+     >
+
+<item android:id="@+id/add_new"
+    android:title="New"
+    android:icon="@drawable/ic_add">
+
+</item>
+
+
+    <item android:id="@+id/delete"
+        android:title="Delete"
+
+        android:icon="@drawable/ic_delete">
+
+    </item>
+
+    <item android:id="@+id/home"
+        android:title="home"
+        android:icon="@drawable/ic_home">
+
+    </item>
+
+    <item android:id="@+id/menu_nav3"
+        android:title="More.....">
+
+        <menu>
+            <item android:id="@+id/Settings"
+                android:title="Settings"
+                android:icon="@drawable/ic_setting">
+
+            </item>
+            <item android:id="@+id/Share"
+                android:title="Share"
+                android:icon="@drawable/ic_share">
+
+
+            </item>
+
+            <item android:id="@+id/help"
+                android:title="Help"
+                android:icon="@drawable/ic_help">
+            </item>
+
+
+            <item android:id="@+id/contacts"
+                android:title="Contact"
+                android:icon="@drawable/ic_contacts">
+            </item>
+
+
+        </menu>
+
+
+    </item>
+</menu>
